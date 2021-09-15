@@ -1,0 +1,16 @@
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\DIO.BANK.csproj.AssemblyReference.cache
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\DIO.BANK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\DIO.BANK.AssemblyInfoInputs.cache
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\DIO.BANK.AssemblyInfo.cs
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\DIO.BANK.csproj.CoreCompileInputs.cache
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\bin\Debug\net5.0\DIO.BANK.exe
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\bin\Debug\net5.0\DIO.BANK.deps.json
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\bin\Debug\net5.0\DIO.BANK.runtimeconfig.json
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\bin\Debug\net5.0\DIO.BANK.runtimeconfig.dev.json
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\bin\Debug\net5.0\DIO.BANK.dll
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\bin\Debug\net5.0\ref\DIO.BANK.dll
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\bin\Debug\net5.0\DIO.BANK.pdb
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\DIO.BANK.dll
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\ref\DIO.BANK.dll
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\DIO.BANK.pdb
+D:\Cursos\Bootcamps DIO\Everis\DIO.Bank\DIO.BANK\obj\Debug\net5.0\DIO.BANK.genruntimeconfig.cache
